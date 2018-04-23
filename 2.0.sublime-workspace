@@ -1,0 +1,706 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"translationX\tfloat"
+			],
+			[
+				"translation",
+				"translationY\tfloat"
+			],
+			[
+				"Scen",
+				"sceneController\tMainController"
+			],
+			[
+				"Vec",
+				"Vector3()\tVector3()"
+			],
+			[
+				"move",
+				"moveCharacterAction\tCCSequenceAction"
+			],
+			[
+				"vEC",
+				"Vector3\tVector3"
+			],
+			[
+				"getEM",
+				"getEmptyPos()\tVector3"
+			],
+			[
+				"gam",
+				"gameObject\tGameObject { get; }"
+			],
+			[
+				"Seqn",
+				"CCSequenceAction\tCCSequenceAction"
+			],
+			[
+				"char",
+				"character\tGameObject"
+			],
+			[
+				"ss",
+				"SSAction\tSSAction"
+			],
+			[
+				"get",
+				"getBoat()\tGameObject"
+			],
+			[
+				"SSAct",
+				"SSActionEventType\tSSActionEventType"
+			],
+			[
+				"wa",
+				"waitingAdd\tList<SSAction>"
+			],
+			[
+				"desob",
+				"DestroyObject(Object obj)\tvoid"
+			],
+			[
+				"re",
+				"repeat\tint"
+			],
+			[
+				"s",
+				"start\tint"
+			],
+			[
+				"SSA",
+				"SSAction\tSSAction"
+			],
+			[
+				"SSAction",
+				"ISSActionCallback\tISSActionCallback"
+			],
+			[
+				"des",
+				"destory\tbool"
+			],
+			[
+				"th",
+				"throw\tthrow"
+			],
+			[
+				"ssa",
+				"SSActionManager\tSSActionManager"
+			],
+			[
+				"for",
+				"foreach\tforeach"
+			],
+			[
+				"AR",
+				"AddRange(IEnumerable<T> collection)\tvoid"
+			],
+			[
+				"act",
+				"actions\tDictionary<int, ObjAction>"
+			],
+			[
+				"Ob",
+				"ObjAction\tObjAction"
+			],
+			[
+				"VE",
+				"Vector3\tVector3"
+			],
+			[
+				"obj",
+				"ObjAction\tObjAction"
+			],
+			[
+				"game",
+				"GameObject\tGameObject"
+			],
+			[
+				"Scri",
+				"ScriptableObject\tScriptableObject"
+			],
+			[
+				"int",
+				"internal\tinternal"
+			],
+			[
+				"mb",
+				"MB2"
+			],
+			[
+				"W",
+				"WHERE"
+			],
+			[
+				"w",
+				"WHERE"
+			],
+			[
+				"IN",
+				"INTERSECT"
+			],
+			[
+				"M",
+				"ManagerBudget"
+			],
+			[
+				"me",
+				"managerid"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"DEP",
+				"Dept"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"GAM",
+				"GameOn\tbool"
+			],
+			[
+				"Vc",
+				"Vector3()\tVector3()"
+			],
+			[
+				"font",
+				"fontSize\tint { get; }"
+			],
+			[
+				"fo",
+				"font\tFont { get; set; }"
+			],
+			[
+				"GUIS",
+				"GUIStyle\tGUIStyle"
+			],
+			[
+				"Gam",
+				"GameOn\tbool"
+			],
+			[
+				"Geo",
+				"GameOn\tbool"
+			],
+			[
+				"User",
+				"UserGUI\tUserGUI"
+			],
+			[
+				"ga",
+				"Gameon\tint"
+			],
+			[
+				"new",
+				"newChar\tMyCharacterController"
+			],
+			[
+				"getOn",
+				"getOnBoat(BoatController boat0)\tvoid"
+			],
+			[
+				"getO",
+				"getOnBoat(BoatController boat0)\tvoid"
+			],
+			[
+				"char0",
+				"charController0\tMyCharacterController"
+			],
+			[
+				"mov",
+				"moveableScript\tMoveable"
+			],
+			[
+				"Type",
+				"typeof\ttypeof"
+			],
+			[
+				"CLI",
+				"clickGUI\tClickGUI"
+			],
+			[
+				"Move",
+				"moveableScript\tMoveable"
+			],
+			[
+				"co",
+				"coastType\tint"
+			],
+			[
+				"sta",
+				"state\tint"
+			],
+			[
+				"cha",
+				"charContoller\tMyCharacterController"
+			],
+			[
+				"coa",
+				"coast0\tCoastController"
+			],
+			[
+				"Bo",
+				"BoatController\tBoatController"
+			],
+			[
+				"cost",
+				"coastType\tint"
+			],
+			[
+				"Reso",
+				"Resources\tResources"
+			],
+			[
+				"whi",
+				"whichCharater\tstring"
+			],
+			[
+				"red",
+				"readonly\treadonly"
+			],
+			[
+				"reon",
+				"readonly\treadonly"
+			],
+			[
+				"getC",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"initi",
+				"initialVelocityUp\tfloat"
+			],
+			[
+				"V",
+				"Vector3()\tVector3()"
+			],
+			[
+				"ro",
+				"RotateAround(Vector3 axis, float angle)\tvoid"
+			],
+			[
+				"vect",
+				"Vector3\tVector3"
+			],
+			[
+				"T",
+				"Time\tTime"
+			],
+			[
+				"vec",
+				"Vector3()\tVector3()"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"Ra",
+				"Range(int min, int max)\tint"
+			],
+			[
+				"U",
+				"Update"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"but",
+				"ButtonLength"
+			],
+			[
+				"B",
+				"ButtonLength"
+			],
+			[
+				"G",
+				"GameOn"
+			],
+			[
+				"bu",
+				"ButtonLength"
+			],
+			[
+				"cen",
+				"centerX"
+			],
+			[
+				"cou",
+				"Count"
+			],
+			[
+				"Unity",
+				"UnityEngine"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"MOVE",
+				"moveVertical"
+			],
+			[
+				"R",
+				"REFERENCES"
+			],
+			[
+				"C",
+				"CHAR"
+			],
+			[
+				"F",
+				"FROM"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2.0.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 489.0,
+		"last_filter": "package control: ins",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 652.0
+	},
+	"console":
+	{
+		"height": 337.0,
+		"history":
+		[
+			"CompleteSharp",
+			"input",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;pf=’Package Control.sublime-package’;ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),’wb’).write(urllib.request.urlopen(‘http://sublime.wbond.net/‘+pf.replace(’ ‘,’%20’)).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week07-Homework/2.0/Frisbee_1.0",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/PriestsAndEvils/Assets/Scripts/ActionManager.cs",
+		"/C/ProgramData/MySQL/MySQL Server 5.7/my.ini",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Week05Experiment/Assets/Scripts/joystick.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Week05Experiment/Assets/Assets/Singleton.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Week05Experiment/Assets/Assets/joystick.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Week05Experiment/Assets/RayRender.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Week05Experiment/Assets/Assets/CreateWall.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/PriestsAndEvils/Assets/Scripts/MainController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/ECOP/Experiment1/Experiment1_bubble_sort_2.0.asm",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/PriestsAndEvils/Assets/Scripts/ActionManageBasis.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/PriestsAndEvils/Assets/Scripts/BaseCode.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/source/_posts/Week05-游戏对象使用总结.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week05-Homework/referenceHomework/Priests-and-devils-Improvement2/Assets/Scripts/ClickGUI.cs",
+		"/C/Users/Sherry/Documents/Curriculums/ECOP/MIPS_Learning_Demo/max_number.asm",
+		"/C/Users/Sherry/Documents/Curriculums/ECOP/16软工 实验1 提供给学生 4 班/实验1 资料、模板、实验 4 班/MIPS汇编语言程序例子/counter.asm",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/BaseCode.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/ClickGUI.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/UserGUI.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/MainController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/ClickGUI.cs.meta",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/TestforQ&A/Assets/Scripts/method3.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Experiments/Assets/Scripts/FirstController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/content-view.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/head.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/list-view.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/meta.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/tag-list.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/time-sec.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/index.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/layout.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/page.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/post.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/comment.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/footer.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/public/archives/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/public/tags/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/public/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/public/tags/3D-GAME-DESIGN/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/source/tags/index.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/.gitmodules",
+		"/C/Users/Sherry/Documents/2.cpp",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/referenceHomework/Assets/Scripts/FirstController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/referenceHomework/Assets/Scripts/BaseCode.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/referenceHomework/Assets/Scripts/UserGUI.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/referenceHomework/Assets/Scripts/ClickGUI.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week03-Homework/ToGitHub/TicTacToe_1.0/Assets/Scripts/TicTacToe.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/PriestsAndEvils/Assets/Scripts/Moveable.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Experiments/Assets/Scripts/moveLeft.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/TestforQ&A/Assets/Scripts/method2.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Week04-Homework/TestforQ&A/Assets/method1 _transform.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/source/_posts/Typora编辑的markdown文本post到Github-Page时遇到的坑.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/next/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/source/_posts/Week03-Homework-Some-Basic-Knowledges.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/source/css/normalize/normalize.css",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/LICENSE",
+		"/C/Users/Sherry/Desktop/nameoverflow_files/github-gist.min.css",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/source/_posts/Week03-Homework-Some-Basic-Knowledges-1.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/source/js/pager/package.json",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/source/css/style.styl",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/_partial/sidebar.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/category.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/archive.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/tag.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Hexo/themes/hexo-theme-icalm/layout/tags.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/themes/hexo-theme-next/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/themes/hexo-theme-toki/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/themes/hexo-theme-toki/layout/post.ejs",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/themes/hexo-theme-icalm/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/source/_posts/Week03-Homework.md",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/public/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/Blog/hexo/themes/landscape/source/js/script.js",
+		"/C/Users/Sherry/Desktop/jekyll_demo/_posts/2012-08-25-hello-world.html",
+		"/C/Users/Sherry/Desktop/jekyll_demo/_layouts/default.html",
+		"/C/Users/Sherry/Desktop/jekyll_demo/_config.yml",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/MyBlog/blog/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3_Game_Design/MyBlog/blog/_layouts/default.html",
+		"/C/Users/Sherry/Desktop/jekyll_demo/index.html",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Week03-Homework/ToGitHub/TicTacToe_1.0/Assets/Scripts/TicTacToe.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Week03-Homework/ToGitHub/.gitignore",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Week3_test_2.0.sublime-project",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/InitBeh_another.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/PrefabBeh.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/BroadcastTest.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ParentCall.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ChildCalled.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ChildCalled1.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/TicTacToe_1.0/Assets/Scripts/NewBehaviourScript.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/TicTacToe_1.0/Assets/Scripts/rigid.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ChildCalled2.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ChildCalled3.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/ChildCalled4.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/Scripts/NewBehaviourScript.cs",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/InitBeh_another.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Roll in a Ball Game/Roll a Ball/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Roll in a Ball Game/Roll a Ball/Assets/Scripts/Rotator.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/PrefabTest.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/Week3_test_2.0/Assets/CameraBeh.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Roll in a Ball Game/Roll a Ball/Assets/Scripts/CameraController.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/copyObject.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/testOrder.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/InitBeh.cs",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Tic Tac Toe/20180322Chapter2-experiements/Assets/createObject.cs",
+		"/C/Users/Sherry/Documents/Curriculums/3D Game Design/Homework1 - 井字棋/reference - calculator.cs",
+		"/C/Users/Sherry/Documents/Curriculums/Database System/20180321.sql",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Sherry/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Sherry/Documents/Curriculums/Database System/Homework/Homework1/3.14.sql",
+		"/C/Users/Sherry/Documents/Curriculums/Database System/Homework/Homework1/3.11.sql",
+		"/C/Users/Sherry/Documents/Curriculums/Database System/Homework/Homework1/3.8.sql",
+		"/C/Users/Sherry/Desktop/test.cpp"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2.0.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 92.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "Frisbee_1.0",
+	"replace":
+	{
+		"height": 106.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
